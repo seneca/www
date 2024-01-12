@@ -117,7 +117,7 @@ bun add lightningcss
 
 
 ## Sections
-Just like books can be divided into chapters, web pages and blog posts are often divided into sections. For example, eht Nuemark demo application is separated in two: a "hero" section, and the rest of the page:
+Just like books can be divided into chapters, web pages and blog posts are often divided into sections. For example, the Nuemark demo application is separated in two: a "hero" section, and the rest of the page:
 
 
 [media]
